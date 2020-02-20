@@ -1,3 +1,9 @@
+# Hello, Joanna!
+Here is my first go at the challenge.
+
+I wanted to get this to you tonight, and could not figure out the bonus challenge.  I am still learning Vuetify, and I think there is a trick to importing new plugins that I don't know.  I found a good library for printing/downloading, but could not import correctly. Thanks for looking, hope to hear back soon!
+
+
 # 4ntent-code-challenge
 
 # the goals of this project:
